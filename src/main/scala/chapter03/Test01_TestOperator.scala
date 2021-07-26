@@ -6,6 +6,6 @@ package chapter03
  */
 object Test01_TestOperator {
   def main(args: Array[String]): Unit = {
-
+  // 练习 github 同步代码
   }
 }
