@@ -58,5 +58,7 @@ object Test08_Practice {
     println(func2(1)("")('0'))
     println(func2(0)("1")('0'))
     println(func2(0)("")('1'))
+
+
   }
 }
