@@ -45,5 +45,6 @@ package aaa {
 
   }
 
+  // 测试同步github
   // 测试代码同步提交到github和gitee
 }
