@@ -43,6 +43,10 @@ package aaa {
       }
     }
 
+    class a {
+      Inner
+    }
+
   }
 
   // 测试同步github

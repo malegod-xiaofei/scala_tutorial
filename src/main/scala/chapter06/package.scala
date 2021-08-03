@@ -1,0 +1,12 @@
+/**
+ * @author Malegod_xiaofei
+ * @create 2021-08-03-21:32
+ */
+package object chapter06 {
+  // 定义当前包共享的属性和方法
+  val commonValue = "尚硅谷"
+
+  def commonMethod(): Unit = {
+    println(s"我们在${commonValue}学习")
+  }
+}
