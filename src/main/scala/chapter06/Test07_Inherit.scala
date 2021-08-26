@@ -24,6 +24,10 @@ object Test07_Inherit {
     personInfo(student1)
     personInfo(teacher)
     personInfo(person)
+
+    println("-------")
+    val person111 = new Person7("sss", 12)
+    personInfo(person111)
   }
 }
 
