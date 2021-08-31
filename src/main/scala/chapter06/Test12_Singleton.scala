@@ -33,7 +33,7 @@ class Student12 private(val name: String, val age: Int) {
 // 懒汉式
 object Student12 {
   private var student: Student12 = _
- 
+
   def getInstance(): Student12 = {
     if (student == null) {
       // 如果没有对象实例的话，就创建一个
